@@ -1,0 +1,36 @@
+{
+  "name": "kospa-bootstrap",
+  "version": "0.1.0",
+  "description": "Bootstrap component for kospa framework",
+  "homepage": "https://github.com/spatools/kospa-boostrap#readme",
+  "author": "Touchify (dev@touchify.co)",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatools/kospa-boostrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spatools/kospa-boostrap/issues"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "bower.json"
+  ],
+  "keywords": [
+    "kospa",
+    "knockout",
+    "ko",
+    "spa",
+    "framework",
+    "boostrap",
+    "app"
+  ],
+  "dependencies": {
+    "@kospa/base": "^0.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.2"
+  }
+}
