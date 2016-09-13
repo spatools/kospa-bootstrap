@@ -1,6 +1,6 @@
 {
   "name": "kospa-bootstrap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bootstrap component for kospa framework",
   "homepage": "https://github.com/spatools/kospa-bootstrap#readme",
   "author": "Touchify (dev@touchify.co)",
@@ -28,7 +28,7 @@
     "app"
   ],
   "dependencies": {
-    "@kospa/base": "^0.1.0"
+    "kospa-base": "^0.1.1"
   },
   "devDependencies": {
     "typescript": "^2.0.2"
