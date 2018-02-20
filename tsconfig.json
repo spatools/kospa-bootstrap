@@ -3,9 +3,11 @@
         "target": "es5",
         "module": "umd",
         "declaration": true,
-        "baseUrl": ".",
-        "paths": {
-            "@kospa/*": ["node_modules/@kospa/*"]
-        }
+        "moduleResolution": "node",
+        "lib": [
+            "es5",
+            "dom",
+            "es2015.promise"
+        ]
     }
 }
